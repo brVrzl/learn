@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class ResourceLeakExample {
-    public static void main(String[] args) {
+    public stastic void main(String[] args) {
         BufferedReader reader = null;
         try {
             reader = new BufferedReader(new FileReader("test.txt"));
@@ -33,10 +33,10 @@ public class ResourceLeakExample {
 //        // 不需要显式关闭BufferedReader，try-with-resources会自动处理
 //    }
 
-	public static void main(String[] args) {
-		String password;
-        password = "12345";
-        System.out.println(password);
-    }
+//	public static void main(String[] args) {
+//		String password;
+//        password = "12345";
+//        System.out.println(password);
+//    }
 
 }
