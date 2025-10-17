@@ -1,0 +1,11 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊÆ¦ãøÿÿÿÿ
+n
+java:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.(İ ëö
+f
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(µëÏ¡ıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(±Ş¨ûÿÿÿÿ
+?	java:S106 "+Replace this use of System.out by a logger.(Àìåk
+E	java:S106$"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(‰Ûø“
+E	java:S106*"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ
